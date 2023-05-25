@@ -1,0 +1,1 @@
+Using tensorflow to classify MNIST handwritten digits. Then comparing against perceptron accuracy
